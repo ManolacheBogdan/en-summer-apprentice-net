@@ -1,0 +1,186 @@
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\appsettings.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.exe
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.deps.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.runtimeconfig.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.pdb
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.csproj.AssemblyReference.cache
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.AssemblyInfoInputs.cache
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.AssemblyInfo.cs
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.csproj.CoreCompileInputs.cache
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.TMS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.TMS.Api.props
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TMS.Api.props
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TMS.Api.props
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\scopedcss\bundle\TMS.Api.styles.css
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.csproj.CopyComplete
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\refint\TMS.Api.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.pdb
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.genruntimeconfig.cache
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\obj\Debug\net6.0\ref\TMS.Api.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.CodeDom.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Text.Json.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\nlog.config
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\NLog.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Endava documentatie\.NET\TMS.Api\TMS.Api\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\nlog.config
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.exe
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.deps.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.runtimeconfig.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\TMS.Api.pdb
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\NLog.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.csproj.AssemblyReference.cache
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.AssemblyInfoInputs.cache
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.AssemblyInfo.cs
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.csproj.CoreCompileInputs.cache
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.TMS.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.TMS.Api.props
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TMS.Api.props
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TMS.Api.props
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\scopedcss\bundle\TMS.Api.styles.css
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.csproj.CopyComplete
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\refint\TMS.Api.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.pdb
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.genruntimeconfig.cache
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\ref\TMS.Api.dll
