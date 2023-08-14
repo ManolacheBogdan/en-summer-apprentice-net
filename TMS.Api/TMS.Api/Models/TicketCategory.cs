@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace TMS.Api.Models;
+﻿namespace TMS.Api.Models;
 
 public partial class TicketCategory
 {

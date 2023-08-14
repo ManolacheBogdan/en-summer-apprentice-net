@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using TMS.Api.Exceptions;
 using TMS.Api.Models;
 
@@ -17,7 +16,7 @@ namespace TMS.Api.Repositories
         public async Task<Event> Add(Event @event)
         {
             _dbContext.Add(@event);
-           await _dbContext.SaveChangesAsync();
+            await _dbContext.SaveChangesAsync();
             return @event;
         }
 
@@ -44,7 +43,6 @@ namespace TMS.Api.Repositories
             return @event;
         }
 
-        
 
         public void Update(Event @event)
         {
@@ -52,6 +50,5 @@ namespace TMS.Api.Repositories
             _dbContext.SaveChanges();
         }
 
-        
     }
 }

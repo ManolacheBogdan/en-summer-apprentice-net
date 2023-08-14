@@ -11,6 +11,7 @@ namespace TMS.Api.Profiles
         { 
             CreateMap<Event,EventDto>().ReverseMap();
             CreateMap<Event, EventPatchDto>().ReverseMap();
+            CreateMap<EventAddDto, Event>();
         }
     }
 }

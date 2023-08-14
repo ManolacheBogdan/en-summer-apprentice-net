@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using TMS.Api.Exceptions;
 using TMS.Api.Models;
 

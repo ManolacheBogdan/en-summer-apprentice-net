@@ -10,6 +10,16 @@ builder.Services.AddControllers();
 builder.Services.AddTransient<IEventRepository, EventRepository>();
 builder.Services.AddTransient<IOrderRepository, OrderRepository>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
 //Insert dependency injection for Logger
 builder.Logging.ClearProviders();
 builder.Host.UseNLog();
@@ -28,11 +38,13 @@ if (app.Environment.IsDevelopment())
 }
 
 
-//app.UseHttpsRedirection();
-
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 
+app.UseHttpsRedirection();
+
 app.UseAuthorization();
+
+app.UseCors();
 
 app.MapControllers();
 

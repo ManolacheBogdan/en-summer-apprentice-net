@@ -1,9 +1,6 @@
 ﻿using AutoMapper;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using NLog;
-using System.Collections.Generic;
 using TMS.Api.Models;
 using TMS.Api.Models.Dto;
 using TMS.Api.Repositories;
@@ -12,6 +9,7 @@ namespace TMS.Api.Controllers
 {
     [Route("api/[Controller][action]")]
     [ApiController]
+    [EnableCors("AllowSpecificOrigins")]
     public class OrderController : ControllerBase
     {
         private readonly IOrderRepository _orderRepository;

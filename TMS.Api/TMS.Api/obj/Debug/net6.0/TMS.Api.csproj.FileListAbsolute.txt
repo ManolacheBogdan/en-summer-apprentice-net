@@ -184,3 +184,9 @@ C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.
 C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.pdb
 C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\TMS.Api.genruntimeconfig.cache
 C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\obj\Debug\net6.0\ref\TMS.Api.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mbogd\Practica\en-summer-apprentice-net\TMS.Api\TMS.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

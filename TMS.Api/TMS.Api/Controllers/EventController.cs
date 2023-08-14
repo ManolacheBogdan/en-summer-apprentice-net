@@ -1,11 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+using Microsoft.IdentityModel.Tokens;
 using TMS.Api.Models;
 using TMS.Api.Models.Dto;
 using TMS.Api.Repositories;
-using AutoMapper;
-using Microsoft.IdentityModel.Tokens;
 
 namespace TMS.Api.Controllers
 {
@@ -13,7 +11,6 @@ namespace TMS.Api.Controllers
     [ApiController]
     public class EventController : ControllerBase
     {
-
         private readonly IEventRepository _eventRepository;
         private readonly IMapper _mapper;
         private readonly ILogger<EventController> _logger;
@@ -28,19 +25,10 @@ namespace TMS.Api.Controllers
         public ActionResult<List<EventDto>> GetAll()
         {
             var events = _eventRepository.GetAll();
-
             if (events == null)
             {
                 return NotFound();
             }
-            /* var eventDto = events.Select(e => new EventDto()
-             {
-                 EventId = e.EventId,
-                 EventDescription = e.EventDescription,
-                 EventName = e.EventName,
-                 EventType = e.EventType?.EventTypeName ?? string.Empty,
-                 Location = e.Location?.LocationName ?? string.Empty
-             });*/
             var eventDto = _mapper.Map<IEnumerable<Event>, List<EventDto>>(events);
             return Ok(eventDto);
         }
@@ -49,25 +37,9 @@ namespace TMS.Api.Controllers
         public async Task<ActionResult<EventDto>> GetById(int id)
         {
 
-
-
             var @event = await _eventRepository.GetById(id);
-
-
-            /*var eventDto = new EventDto()
-            {
-                EventId = @event.EventId,
-                EventDescription = @event.EventDescription,
-                EventName = @event.EventName,
-                EventType = @event.EventType?.EventTypeName ?? string.Empty,
-                Location = @event.Location?.LocationName ?? string.Empty
-            };*/
-
             var eventDto = _mapper.Map<EventDto>(@event);
-
             return Ok(eventDto);
-
-
         }
 
         [HttpPatch]
@@ -101,12 +73,11 @@ namespace TMS.Api.Controllers
         }
 
         [HttpPost]
-
         public async Task<ActionResult<EventAddDto>> Add(EventAddDto eventAdd)
         {
             var eventToSave = _mapper.Map<Event>(eventAdd);
             await _eventRepository.Add(eventToSave);
-            return CreatedAtAction(nameof(GetById), new { id = eventToSave.EventId }, eventToSave);
+            return Ok(eventToSave);
         }
 
 
@@ -115,5 +86,5 @@ namespace TMS.Api.Controllers
 }
 
 
- 
+
 
